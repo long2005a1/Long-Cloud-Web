@@ -34,7 +34,7 @@
 
 ①Alist现在已被收购，本仓库魔改版暂停更新，请尽快迁移数据到OpenList
 
-②现在OpenList魔改位置是https://github.com/lyy2005a3/OpenList   我将会继续在这里发布魔改更新！
+②现在OpenList魔改位置是https://github.com/lyy2005a3/OpenList-Frontend   我将会继续在这里发布魔改更新！
 
 
 ##停更时间：2025年6月11日      
